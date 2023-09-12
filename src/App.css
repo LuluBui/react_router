@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+.selected{
+  border: solid rgb(0, 209, 0) 1px;
+  border-left: solid rgb(0, 209, 0) 6px;
+  border-right: solid rgb(0, 209, 0) 6px;
+}
